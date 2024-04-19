@@ -35,7 +35,7 @@ const Footer = () => {
         </div>
       </footer>
       <div className="legal">
-        <span>© 2022 Real Estate. Developed By Prathmesh Jadhav.</span>
+        <span>© 2024 Real Estate. Developed By Adil Rose</span>
       </div>
     </>
   );

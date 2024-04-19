@@ -13,7 +13,7 @@ function Home() {
       <ANavbar />
       <div className="back">
         <div className="container">
-          <h1>Hello Prathmesh👋</h1>
+          <h1>Hello Adil👋</h1>
         </div>
         <img src={img} alt="" />
       </div>

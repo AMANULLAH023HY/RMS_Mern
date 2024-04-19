@@ -4,8 +4,6 @@ import Footer from '../footer/Footer'
 import "./contact.css"
 import img from "../images/pricing.jpg"
 
-
-
 function Contact() {
   
   return (

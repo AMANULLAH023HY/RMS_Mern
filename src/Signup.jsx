@@ -55,8 +55,8 @@ function Signup() {
         </NavLink> */}
       </form>
       <div className='footer'>
-        <span>© 2022 Real Estate. Developed By Prathmesh Jadhav.</span>
-      </div>
+        <span>© 2024 Real Estate. Developed By Adil Rose</span>
+      </div>  
     </>
   );
 }

@@ -3,9 +3,6 @@ const conn = require("./db");
 const app = express();
 const cors = require('cors');
 
-
-
-
 conn.connection.on("connected",(err)=>{
     if(err){
         console.error(err);

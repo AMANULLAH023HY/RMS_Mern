@@ -7,8 +7,6 @@ import { NavLink} from "react-router-dom";
 import img1 from '../../assets/hero-img.jpg'
 import img from "../images/pricing.jpg"
 
-
-
 function ListProperty() {
   const{id } = useParams();
   const [propertyList , setPropertyList] = useState([]);
